@@ -1,2 +1,4 @@
 # ARITHMAtic
 2nd java project
+
+ARITHMATIC PROJECT MODIFICATION TO GIVEN project
